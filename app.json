@@ -1,4 +1,5 @@
 {
   "name": "OfficeComms",
-  "displayName": "OfficeComms"
+  "displayName": "OfficeComms",
+    "scheme": "officecomms"
 }
